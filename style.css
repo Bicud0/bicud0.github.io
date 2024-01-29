@@ -1,0 +1,15 @@
+body{
+    background-color: #ECFFDC;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #8A9A5B;
+    }
+
+
+
+h1{
+    color: #0BDA51;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
